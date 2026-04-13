@@ -1,4 +1,4 @@
 # apnacollegedemo
 this is my first repo
-author-amita katiyar
+author-(amita katiyar)
 new ui project
